@@ -8,7 +8,9 @@
     width: 15vw;
     flex-direction: column;
     justify-content: center;
-    height: 100vh;
+    height: 80vh;
+    position: relative;
+    top: 20vh;
 }
 
 .menulist{
