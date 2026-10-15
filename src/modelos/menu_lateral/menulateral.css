@@ -7,16 +7,14 @@
     display: flex;
     width: 15vw;
     flex-direction: column;
-    justify-content: center;
+    justify-content:space-around;
     height: 80vh;
-    position: relative;
-    top: 10vh;
 }
 
 .menulist{
     display: flex;
     flex-direction: column;
-    height: 80vh;
-    justify-content: space-around;
+    justify-content:space-between;
     list-style: none;
+    height: 85%;
 }

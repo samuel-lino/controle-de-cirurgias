@@ -1,7 +1,7 @@
 import "./baner_titulo.css";
 
 function BanerTitulo(props){
-    return(<div>
+    return(<div className="baner">
         <h1>{props.titulo}</h1>
     </div>)
 }
