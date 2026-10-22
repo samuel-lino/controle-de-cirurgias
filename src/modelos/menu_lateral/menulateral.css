@@ -9,6 +9,8 @@
     flex-direction: column;
     justify-content:space-around;
     height: 80vh;
+    border-right: 1.5px solid rgba(0, 0, 0, 0.3);
+    border-radius: 20%;
 }
 
 .menulist{
