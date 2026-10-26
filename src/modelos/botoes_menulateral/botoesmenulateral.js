@@ -2,7 +2,7 @@ import './botoes.css';
 
 function BotoesMenuLateral(props){
     return (<div>
-        <button onClick={props.funcao}>{props.nome}</button>
+        <button onClick={()=>{props.funcao(props.pagina)}} >{props.nome}</button>
     </div>)
 }
 
